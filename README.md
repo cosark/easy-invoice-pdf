@@ -288,6 +288,10 @@ For the full app experience, you’ll need to obtain and set values from the fol
 - [Google Drive API](https://developers.google.com/workspace/drive/api/quickstart/js)
 - [Telegram Bot API](https://core.telegram.org/bots)
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Easy%20Invoice%20PDF/)
+
 ## License
 
 This project is licensed under the [GNU AGPL v3](https://opensource.org/license/AGPL-3.0).
